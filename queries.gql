@@ -1,0 +1,8 @@
+query AllPersons {
+  persons {
+    id
+    name
+    age
+    role
+  }
+}
